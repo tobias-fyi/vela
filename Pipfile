@@ -1,0 +1,35 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+black = "*"
+pylint = "*"
+pytest = "*"
+
+[packages]
+ipython = "*"
+ipykernel = "*"
+beautifulsoup4 = "*"
+fake-useragent = "*"
+flake8 = "*"
+matplotlib = "*"
+mypy = "*"
+numpy = ">=1.17.4"
+opencv-python = "*"
+pandas = "*"
+pytest = "*"
+pytest-cov = "*"
+requests = "*"
+scikit-fuzzy = "*"
+sklearn = "*"
+sympy = "*"
+Pillow = "*"
+tensorflow = "*"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
