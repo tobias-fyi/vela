@@ -13,4 +13,4 @@ misaka==2.1.0
 mistune==0.8.3
 oauth2==1.9.0.post1
 pycparser==2.18
-Werkzeug==0.14.1
+Werkzeug==0.15.3
