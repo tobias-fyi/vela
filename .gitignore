@@ -1,17 +1,7 @@
 # ====== Project-Specific ====== #
 dox/
-
-# === AWS === #
-.ebextensions/
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
-
-# === EnviroVars === #
-.env
-.env.dev
-.env.prod
-.env.prod.db
+data.dump
+postgres_data/
 
 # Compiled source
 *.com
@@ -34,8 +24,8 @@ dox/
 *.zip
 
 # Databases
-*.sql
-*.sqlite
+# *.sql
+*.sqlite3
 
 # Created by https://www.gitignore.io/api/osx,python,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=osx,python,visualstudiocode
