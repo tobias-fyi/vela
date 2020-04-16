@@ -27,6 +27,7 @@ sklearn = "*"
 sympy = "*"
 Pillow = "*"
 tensorflow = "*"
+pyjanitor = "*"
 
 [requires]
 python_version = "3.7"
