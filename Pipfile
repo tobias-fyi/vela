@@ -28,6 +28,9 @@ sympy = "*"
 Pillow = "*"
 tensorflow = "*"
 pyjanitor = "*"
+moviepy = "*"
+imageio-ffmpeg = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"

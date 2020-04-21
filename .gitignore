@@ -2,6 +2,7 @@
 dox/
 data.dump
 postgres_data/
+.vscode/
 
 # Compiled source
 *.com
