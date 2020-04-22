@@ -31,6 +31,7 @@ pyjanitor = "*"
 moviepy = "*"
 imageio-ffmpeg = "*"
 scipy = "*"
+torch = "*"
 
 [requires]
 python_version = "3.7"
