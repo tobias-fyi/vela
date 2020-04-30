@@ -3,6 +3,8 @@ dox/
 data.dump
 postgres_data/
 .vscode/
+machine_learning_flashcards/
+recordings/
 
 # Compiled source
 *.com
