@@ -33,6 +33,7 @@ imageio-ffmpeg = "*"
 scipy = "*"
 torch = "*"
 jupyterlab = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
