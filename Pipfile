@@ -38,6 +38,8 @@ missingno = "*"
 plotly = "*"
 pandas-profiling = "*"
 eli5 = "*"
+squarify = "*"
+spacy = "==2.2.4"
 
 [requires]
 python_version = "3.7"
