@@ -5,6 +5,7 @@ postgres_data/
 .vscode/
 machine_learning_flashcards/
 recordings/
+fast_ai/
 
 # Compiled source
 *.com
