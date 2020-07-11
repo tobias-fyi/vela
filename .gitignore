@@ -6,6 +6,7 @@ postgres_data/
 machine_learning_flashcards/
 recordings/
 fast_ai/
+pytudes/
 
 # Compiled source
 *.com
