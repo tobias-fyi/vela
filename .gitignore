@@ -3,10 +3,13 @@ dox/
 data.dump
 postgres_data/
 .vscode/
+
+# === Large files or separate git repos === #
 machine_learning_flashcards/
 recordings/
 fast_ai/
 pytudes/
+cracking-the-data-science-interview/
 
 # Compiled source
 *.com
