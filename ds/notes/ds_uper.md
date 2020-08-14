@@ -53,3 +53,9 @@ Pretty straightforward. What I'm talking about with regards to experiment design
 6. Communicate results of the analysis
     * Make the stakeholders understand why the insights are important
     * Craft a compelling story that ties the data to their knowledge
+
+## Points to Clarify Up Front
+
+* The size and shape of the dataset
+* Data types
+* 
