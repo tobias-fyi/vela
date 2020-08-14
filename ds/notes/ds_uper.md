@@ -56,6 +56,7 @@ Pretty straightforward. What I'm talking about with regards to experiment design
 
 ## Points to Clarify Up Front
 
+* Why? Why does this matter? What do you want to get out of it?
 * The size and shape of the dataset
 * Data types
 * 
