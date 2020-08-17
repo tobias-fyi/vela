@@ -12,6 +12,9 @@ pytudes/
 cracking-the-data-science-interview/
 cracking-the-machine-learning-interview/
 
+# === Private directories === #
+*_/
+
 # Compiled source
 *.com
 *.class
