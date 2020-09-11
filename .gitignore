@@ -2,6 +2,7 @@
 dox/
 data.dump
 postgres_data/
+db_data/
 .vscode/
 
 # === Large files or separate git repos === #
@@ -11,6 +12,8 @@ fast_ai/
 pytudes/
 cracking-the-data-science-interview/
 cracking-the-machine-learning-interview/
+ds/kb/books/curious_moon/data/
+ref_code/
 
 # === Private directories === #
 *_/
