@@ -41,6 +41,7 @@ eli5 = "*"
 squarify = "*"
 spacy = "==2.2.4"
 nltk = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.7"
