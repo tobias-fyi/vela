@@ -2,10 +2,10 @@
 Augo :: Create Daily Journal
 
 - Get current file name: "yyyy-mm-dd-nnn-day.md"
-    - Create current file
-- Get previous filename: "yyyy-mm-dd-nnn-day.md"
+    - If it doesn't exist, create current file
 - Get current sprint: directory number + file name
     - If no sprint exists, then create it
+- Get previous filename: "yyyy-mm-dd-nnn-day.md"
 - Selectively copy/extract from previous and copy to current, filling in info as needed:
     - Only up to first "---"
     - Only TODO items that are not complete
